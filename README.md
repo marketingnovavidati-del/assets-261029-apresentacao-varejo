@@ -9,6 +9,6 @@ https://cdn.jsdelivr.net/gh/marketingnovavidati-del/assets-261029-apresentacao-v
 
 | Pasta | Conteúdo |
 |---|---|
-| `img/` | Capa, logotipo, selos ISO, foto do contato e logos de clientes |
+| `img/` | Capa, logotipo, marca, selos ISO, textura do título, avatares, foto do contato e logos de clientes |
 | `video/` | Vídeo do slide 4 (MP4 H.264, sem áudio) |
-| `fonts/` | Poppins 400/500 e Inter 500 em WOFF2 + `fonts.css` (licença SIL OFL 1.1) |
+| `fonts/` | Poppins 400/500, Inter 400/500, Plus Jakarta Sans 600 e JetBrains Mono 500 em WOFF2 + `fonts.css` (licença SIL OFL 1.1) |
